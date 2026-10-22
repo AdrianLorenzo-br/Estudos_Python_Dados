@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 
-df = pd.read_csv("a/2.4/titanic.csv")
+df = pd.read_csv("aulas/introducao/2.4/titanic.csv")
 
 print(df.head())
 
